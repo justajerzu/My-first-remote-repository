@@ -1,2 +1,6 @@
 # My-first-remote-repository
-Justyna Jerzykowska, Antwerp
+ - **student**: _Justyna Jerzykowska, Antwerp_
+ 
+
+## TO DO
+ - [ ] Python
