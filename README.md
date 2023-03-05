@@ -1,2 +1,2 @@
-# My-first-repository
+# My-first-remote-repository
 Justyna Jerzykowska, Antwerp
